@@ -1,0 +1,17 @@
+@font-face {
+    font-family:poppins ;
+    src: url(../fonts/Poppins/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family:poppins ;
+    src: url(../fonts/Poppins/Poppins-ExtraLight.ttf);
+}
+@font-face {
+    font-family:poppins ;
+    src: url(../fonts/Poppins/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family:inter ;
+    src: url(../fonts/Inter/Inter-VariableFont_slnt\,wght.ttf);
+}
